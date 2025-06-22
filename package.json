@@ -2,6 +2,7 @@
   "name": "nuxt-app",
   "private": true,
   "type": "module",
+  "homepage": "https://alfremk.github.io/nuxt-stockfish-wasm",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",

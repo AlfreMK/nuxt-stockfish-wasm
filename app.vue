@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { TheChessboard, type BoardApi, type SquareKey, type Promotion } from 'vue3-chessboard'
 import { Chess, type Move } from 'chess.js'
-import stockfishImg from '~/img/stockfish.png'
+import stockfishImg from '/stockfish.png'
 import 'vue3-chessboard/style.css'
 import { useStockfish } from '~/composables/useStockfish'
 
