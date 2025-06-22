@@ -103,7 +103,11 @@ const copyPgn = () => {
   </div>
 </template>
 
-<style scoped>
+<style>
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
 .chessboard-wrapper {
   border: 4px solid black;
   background-color: #262421;
